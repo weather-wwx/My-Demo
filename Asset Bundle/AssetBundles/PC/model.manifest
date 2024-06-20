@@ -1,0 +1,33 @@
+ManifestFileVersion: 0
+CRC: 1170523541
+Hashes:
+  AssetFileHash:
+    serializedVersion: 2
+    Hash: 1be16af9604fb8274af7b2c8a06307f1
+  TypeTreeHash:
+    serializedVersion: 2
+    Hash: 48f9e47804cc6149eb45c38c55466448
+  IncrementalBuildHash:
+    serializedVersion: 2
+    Hash: 1be16af9604fb8274af7b2c8a06307f1
+HashAppended: 0
+ClassTypes:
+- Class: 1
+  Script: {instanceID: 0}
+- Class: 4
+  Script: {instanceID: 0}
+- Class: 21
+  Script: {instanceID: 0}
+- Class: 23
+  Script: {instanceID: 0}
+- Class: 33
+  Script: {instanceID: 0}
+- Class: 43
+  Script: {instanceID: 0}
+- Class: 65
+  Script: {instanceID: 0}
+SerializeReferenceClassIdentifiers: []
+Assets:
+- Assets/Resources/Cube.prefab
+Dependencies:
+- "D:/mm/\u5B66\u4E60/Unity\u5B66\u4E60\u6848\u4F8B/Asset Bundle/AssetBundles/PC/img"

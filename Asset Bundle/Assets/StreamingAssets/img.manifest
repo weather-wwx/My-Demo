@@ -1,0 +1,29 @@
+ManifestFileVersion: 0
+CRC: 175506358
+Hashes:
+  AssetFileHash:
+    serializedVersion: 2
+    Hash: 87b07d16b884baaedabdeee366be5e52
+  TypeTreeHash:
+    serializedVersion: 2
+    Hash: b90360021f95c293bf3f1bef88434a62
+  IncrementalBuildHash:
+    serializedVersion: 2
+    Hash: 87b07d16b884baaedabdeee366be5e52
+HashAppended: 0
+ClassTypes:
+- Class: 21
+  Script: {instanceID: 0}
+- Class: 28
+  Script: {instanceID: 0}
+- Class: 48
+  Script: {instanceID: 0}
+- Class: 213
+  Script: {instanceID: 0}
+SerializeReferenceClassIdentifiers: []
+Assets:
+- "Assets/ArtRes/icon/\u4E3B\u89D2\u5934\u50CF/3.png"
+- "Assets/ArtRes/icon/\u4E3B\u89D2\u5934\u50CF/2.png"
+- "Assets/ArtRes/icon/\u4E3B\u89D2\u5934\u50CF/1.png"
+- Assets/Resources/Test.mat
+Dependencies: []
