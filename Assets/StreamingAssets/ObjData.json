@@ -1,0 +1,18 @@
+[
+{"id":1,"name":"普通的剑","icon":"weapon1","type":1,"price":100,"effectValue":10,"tips":"一把朴实无华的剑","effect":"attack+10"},
+{"id":2,"name":"青铜剑","icon":"weapon2","type":1,"price":200,"effectValue":20,"tips":"由青铜铸成的剑","effect":"attack+20"},
+{"id":3,"name":"细小的剑","icon":"weapon3","type":1,"price":300,"effectValue":25,"tips":"剑身细小,灵巧敏捷","effect":"attack+30"},
+{"id":4,"name":"锋利的剑","icon":"weapon4","type":1,"price":500,"effectValue":50,"tips":"尊贵的宝剑，锋利无比","effect":"attack+40"},
+{"id":5,"name":"布衣","icon":"armor1","type":2,"price":100,"effectValue":10,"tips":"由布制成的衣服","effect":"defense+10"},
+{"id":6,"name":"甲胄","icon":"armor2","type":2,"price":200,"effectValue":15,"tips":"普通的甲胄","effect":"defense+15"},
+{"id":7,"name":"铠甲","icon":"armor3","type":2,"price":300,"effectValue":20,"tips":"坚硬无比","effect":"defense+20"},
+{"id":8,"name":"盔甲","icon":"armor4","type":2,"price":400,"effectValue":25,"tips":"无坚不摧","effect":"defense+25"},
+{"id":9,"name":"面包","icon":"Icon/food1","type":3,"price":100,"effectValue":5,"tips":"食用后，提升玩家5攻击","effect":"attack+5"},
+{"id":10,"name":"可丽饼","icon":"Icon/food2","type":3,"price":150,"effectValue":20,"tips":"食用后，提升玩家10最大生命值","effect":"maxHp+20"},
+{"id":11,"name":"披萨","icon":"Icon/food3","type":3,"price":300,"effectValue":20,"tips":"食用后，提升玩家20攻击","effect":"attack+20"},
+{"id":12,"name":"热狗","icon":"Icon/food4","type":3,"price":100,"effectValue":10,"tips":"食用后，提升玩家10防御","effect":"defense+10"},
+{"id":13,"name":"初级治疗药","icon":"potion1","type":4,"price":50,"effectValue":20,"tips":"恢复20血量","effect":"hp+20"},
+{"id":14,"name":"中级治疗药","icon":"potion2","type":4,"price":60,"effectValue":50,"tips":"恢复50血量","effect":"hp+50"},
+{"id":15,"name":"高级治疗药","icon":"potion3","type":4,"price":100,"effectValue":100,"tips":"恢复100血量","effect":"hp+100"},
+{"id":16,"name":"coin",     "icon":"coin1",  "type":5,"price":0,  "effectValue":0,  "tips":"",           "effect":""}
+]
